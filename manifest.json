@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "description": "Professional cyber cafe &amp; digital service center in Balaganj, Lucknow for Aadhaar, PAN, certificates, passport, online forms, and printing services.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "unique-computers",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "unique-computers-lko",
+  "start_url": "/",
+  "theme_color": "#0f172a"
+}
